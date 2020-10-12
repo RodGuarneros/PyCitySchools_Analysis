@@ -1,2 +1,3 @@
 # PyCitySchools_Analysis
-Performance of 15 schools analysis
+
+Performance analysis  of 15 schools, based on python.
